@@ -1,4 +1,4 @@
-USE QL_NhaTro;
+USE QL_CanHo;
 GO
 
 IF COL_LENGTH('dbo.tblTaiKhoan', 'bTrangThai') IS NULL
